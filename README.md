@@ -1,4 +1,4 @@
-# C Morse Code Generator
+# C Morse code generator
 
 A simple console application in C that converts text and digits into Morse code. It also plays the Morse using:
 - Beep sound
