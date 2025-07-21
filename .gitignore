@@ -4,11 +4,3 @@
 # Object files
 *.o
 *.obj
-
-# Debug info
-*.pdb
-*.ilk
-
-# macOS/Windows system files
-.DS_Store
-Thumbs.db
