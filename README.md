@@ -17,7 +17,7 @@ A simple console application in C that converts text and digits into Morse code.
     ```bash
     gcc morse_caps.c -o morse.exe
 
-3. Run in termianal
+3. Run in terminal
     ```bash
     ./morse.exe
 
